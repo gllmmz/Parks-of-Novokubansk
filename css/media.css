@@ -30,5 +30,8 @@
         font-size: 16px;
         max-width: 360px;
     }
+    .swiper-container{
+        width: 90%;
+    }
 }
 
