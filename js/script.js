@@ -1,4 +1,4 @@
-new Swiper('.swiper-container', {
+new Swiper('.swiper', {
     autoplay:{
         delay:2000,
         stopOnLastSlide: false,
