@@ -163,7 +163,7 @@ h2{
 .swiper-wrapper{
     align-items: center;
 }
-.swiper-container{
+.swiper{
     width: 40%;
     display: block;  
     margin: 0;
